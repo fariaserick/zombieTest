@@ -1,7 +1,7 @@
 process.env.NODE_ENV = 'test';
 var assert 	= require('assert'),
 	Browser = require('zombie')
-	//app		= require('../../server')
+	//app		= require('../app')
 	;
 
 	describe('Index', function(){
