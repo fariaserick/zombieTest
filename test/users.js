@@ -17,7 +17,7 @@ var assert 	= require('assert'),
 				console.error(error);
 			});
 
-			browser.visit('http://localhost:9000/', function(){
+			browser.visit('https://github.com/fariaserick/zombieTest/', function(){
 				/*then(function(){
 					assert.equal(browser.text("input"), "teste");
 					return browser.clickLink
