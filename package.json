@@ -4,7 +4,7 @@
   "dependencies": {},
   "scripts": {
     "test": "mocha ./test/users.js",
-    //"start": "node app.js"
+    "start": "node app.js"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
