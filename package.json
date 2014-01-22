@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "dependencies": {},
   "scripts": {
-    "test": "mocha ./test/users.js",
-    "start": "node app.js"
+    //"test": "mocha ./test/users.js",
+    //"start": "node app.js"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
